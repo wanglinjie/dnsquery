@@ -2,6 +2,7 @@ dnsquery
 ========
 
 send dns query packet
+发送dns请求包
 
 参数说明:
 
